@@ -1,5 +1,5 @@
 {
   "posts": [
-    { "id": 1, "symbol": "GBPJPY", "maxOrder": 10, "maxBuy": 4, "maxSell": 4, "runCheck": "false", "forceAllOrderToClose": "false", "lotSizeDefault": 0.01, "priceAsk": 127.8, "priceBid": 130, "priceRange": 0.2, "priceArletRange": 0.5 }
+    { "id": 1, "symbol": "GBPJPY", "maxOrder": 10, "maxBuy": 4, "maxSell": 4, "runCheck": "true", "forceAllOrderToClose": "false", "lotSizeDefault": 0.01, "priceAsk": 127.8, "priceBid": 130, "priceRange": 0.2, "priceArletRange": 0.5 }
   ]
 }
